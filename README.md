@@ -1,4 +1,5 @@
 `scoop` [![Build status](https://ci.appveyor.com/api/projects/status/jgckhkhe5rdd6586/branch/master?svg=true)](https://ci.appveyor.com/project/rivy/scoop/branch/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frivy%2Fscoop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frivy%2Fscoop?ref=badge_shield)
 =======
 
 `scoop` is a command-line installer for Windows.
@@ -71,3 +72,7 @@ The apps that install best with `scoop` are commonly called "portable" apps: i.e
 Since installers are common, `scoop` supports them too (and their uninstallers).
 
 `scoop` is also great at handling single-file programs and Powershell scripts. These don't even need to be compressed. See the [runat](https://github.com/lukesampson/scoop/blob/master/bucket/runat.json) package for an example: it's really just a GitHub gist.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frivy%2Fscoop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frivy%2Fscoop?ref=badge_large)
